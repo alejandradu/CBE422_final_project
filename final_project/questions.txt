@@ -1,0 +1,1 @@
+1. is the MD in the notebook all atom? How do i know its time step?
